@@ -1,7 +1,17 @@
 body {
     color: red;
-    font: small-caps;
+    text-align: center;
+    
 }
 nav {
-    background-color: pink;
+    background-color: grey;
+}
+h1 {
+    text-align: center;
+    font: 60px;
+    font-family: 'Hepta Slab', serif;
+
+}
+h3 {
+    color: grey;
 }
